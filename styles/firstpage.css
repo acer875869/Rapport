@@ -78,3 +78,11 @@ margin-bottom: 100px;
     gap: 10px;
     justify-content: flex-end;
  }
+
+ .titre-intro-deux {
+     color: red;
+     text-decoration: underline;
+     margin-left:150px;
+    }
+
+    
