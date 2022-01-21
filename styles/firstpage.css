@@ -85,4 +85,17 @@ margin-bottom: 100px;
      margin-left:150px;
     }
 
-    
+    .titre-intro-trois {
+        color: red;
+        text-decoration: underline;
+        margin-left:115px;
+    }
+
+    .first-day {
+        font-size: 26px;
+    }
+
+    .first-day- {
+        font-size: 26px;
+        margin-bottom: 75px;
+    }
