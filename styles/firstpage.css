@@ -1,5 +1,10 @@
+@media print {
+    
+}
+
 body{
     font-family: 'Roboto';
+    background: rgb(119, 119, 119);
 }
 
 p {
@@ -11,6 +16,15 @@ img {
     width:190px;
     margin-top: auto;
     margin-bottom: auto;
+}
+
+.page {
+    padding: 25px;
+    width: 700px;
+    height: 1000px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
 }
 .infrassur-logo{
     display: block;
@@ -34,7 +48,7 @@ margin-bottom: 25px;
 }
 
 .titre-intro {
-    margin-left:125px;
+    margin-left:225px;
     color: red;
     text-decoration: underline;
     margin-bottom: 25px;
@@ -56,4 +70,11 @@ margin-bottom: 100px;
 .son-identité-deux {
     font-size: 25px;
     margin-bottom: 100px; 
+ }
+
+
+ .next-back {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
  }
