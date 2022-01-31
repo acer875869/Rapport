@@ -92,6 +92,16 @@ margin-bottom: 100px;
     }
 
     .first-day {
+        font-size: 23px;
+        margin-bottom: 25px;
+    }
+
+    .second-day {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+
+    .first-dy{
         font-size: 30px;
         margin-bottom: 25px;
     }
